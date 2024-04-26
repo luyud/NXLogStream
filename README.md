@@ -1,7 +1,8 @@
 # NXLogStream
 Display live logs in the browser via websocket push streaming, Based on swifter and DDLog, using Swift language
 
-<img width="958" alt="logstream" src="https://github.com/luyud/NXLogStream/assets/9164808/4fb22d54-44e4-4392-96a7-cabda5fdf87c">
+![logstream](https://github.com/luyud/NXLogStream/assets/9164808/1e78b023-1e24-41a8-828e-3df7926b63d8)
+
 
 # Usage
 Add [swifter](https://github.com/httpswift/swifter) and [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) to your project
